@@ -1,2 +1,2 @@
 # alesiasMSc
-stuff i learn on my master's in ais
+this repository is basically stuff i learn on my master's in ais
